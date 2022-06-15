@@ -2,28 +2,28 @@
 
 # LeaderBoard
 
-> API TBD
+> he leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## Built With
 
 - HTML, CSS and Javascript
+- WebPack
 - Git and Github
 
 
-## Live Demo (if available)
 
-https://emmykage.github.io/
+## Live Demo (Not  available)
+
+
 
 
 ## Getting Started
 
 
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-  None
+   Visual Studio Code or any suitable IDM
 
 ### Setup
 click on the code tab on the repository
@@ -48,8 +48,6 @@ Download and view file
 
 
 ## 🤝 Contributing
-https://github.com/Emmykage/Capstone-Project/issues
-
 Thanks to everyone who contributed
 
 ## Show your support
@@ -58,7 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- i want to Ackowledge Cindy Shin whose original design was used to make this website
+my Stand-up team
 
 
 ## 📝 License
