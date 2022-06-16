@@ -1,9 +1,37 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Output Management</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1"><script defer src="runtime.js"></script><script defer src="main.js"></script></head>
-  <body>
-  </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeaderBoard</title>
+<script defer src="runtime.js"></script><script defer src="main.js"></script></head>
+<body>
+    <h1> LeaderBoard</h1>
+
+    <div class="container">
+        <div class="left-contain">
+            <div class="left-header"> <h2> Recent scores</h2>
+                <button class="btn" id="Refresh">Refresh</button>
+            </div>
+           
+            <ul class="leader-list" id="leaderBoard">
+                
+            </ul>
+
+        </div>
+        <div class="right-contain">
+            <h2>Add you Score</h2>
+            <form>
+                
+                <input id="name" type="text" name="name" placeholder="Your Name">
+                <input id="score" type="text" name="score"  placeholder="Your Score">
+                <button id="submit" class="btn1" type="submit">Submit</button>
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
 </html>
