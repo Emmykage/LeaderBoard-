@@ -1,6 +1,4 @@
 import './style.css';
-// import getID from './modules/ID';
-// import Scores from './modules/scores.js';
 
 const urlAPI = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/';
 const ApiID = 'rDBXUmKAIgUrA0R4BiuE';
@@ -28,7 +26,7 @@ async function sendData() {
       'content-type': 'application/json',
     },
   });
-  // console.log(play)
+
   const sent = await response.json();
   return sent;
 }
@@ -47,7 +45,6 @@ async function receiveData() {
   for (let i = 0; i < gamelist.result.length; i += 1) {
     display(gamelist.result[i]);
   }
-  // display(gamelist)
   return gamelist;
 }
 
@@ -55,7 +52,6 @@ subBtn.addEventListener('submit', (e) => {
   e.preventDefault();
 
   sendData();
-  // console.log(newEntry);
 });
 receiveData();
 
