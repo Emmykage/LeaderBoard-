@@ -46,7 +46,7 @@ To clone this project:
 - enter Individual ToDo activty and enter to register your activity for the day
 
 ### Run tests
-- You can use a live server to run the tests
+- npm reun start
 
 ### Deployment
 - Run the project in your local browser to view the index.html
