@@ -2,7 +2,7 @@
 
 # LeaderBoard
 
-> he leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+> The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## Built With
 
@@ -18,6 +18,7 @@ To clone this project:
 - Click on the green button("code")
 - Copy the ssh link
 - on your local machine, type the command git clone link
+-
 
 
 ### Prerequisites
@@ -31,17 +32,21 @@ To clone this project:
 - Change directory into the project folder
 - Install dev dependencies
 - Open project with text editor to view changes
-- Run the code using [live server](https://emmykage.github.io/To-Do-List/dist/)
+- Run "npm run install"
+- Run "npm run start"
 
 
 ### Install
 - No Installation is required
 
+### Liver Server 
+- [Leader Board](https://emmykage.github.io/LeaderBoard-/dist/)
+
 ### Usage
 - enter Individual ToDo activty and enter to register your activity for the day
 
 ### Run tests
-- You can use a live server to run the tests
+- npm reun start
 
 ### Deployment
 - Run the project in your local browser to view the index.html
@@ -49,11 +54,10 @@ To clone this project:
 
 ## Authors
 
-
 👤 **Morris Menanya**
 
 - GitHub: [@emmykage](https://github.com/Emmykage)
-- Twitter: [@emmykage](https://twitter.com/omayiobenj)
+- Twitter: [@emmykage](https://twitter.com/emmykage)
 - LinkedIn: [Menanya Morris](https://www.linkedin.com/in/morris-menanya-a51985104/)
 
 
@@ -66,3 +70,5 @@ To clone this project:
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+
