@@ -66,8 +66,9 @@ To clone this project:
 
 -  Morris Menanya: [@emmykage](https://github.com/Emmykage)
 
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+Development
 
