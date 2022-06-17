@@ -6,59 +6,63 @@
 
 ## Built With
 
-- HTML, CSS and Javascript
-- WebPack
-- Git and Github
-
-
-
-## Live Demo (Not  available)
-
-
-
+- HTML
+- CSS
+- Javascript ES6
+- Webpack
 
 ## Getting Started
 
+To clone this project:
+- Go to github project repository
+- Click on the green button("code")
+- Copy the ssh link
+- on your local machine, type the command git clone link
 
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-   Visual Studio Code or any suitable IDM
+- Code editor
+- Knowledge in HTML
+-Knowledge in Javascrict
+-Git
 
 ### Setup
-click on the code tab on the repository
-download the Zip folder to your computer 
-open file locally
+- Clone the repository
+- Change directory into the project folder
+- Install dev dependencies
+- Open project with text editor to view changes
+- Run the code using [live server](https://emmykage.github.io/To-Do-List/dist/)
 
-copy the link from the repository
-open terminal 
-enter "git clone [copied link]
 
-Download and view file
+### Install
+- No Installation is required
 
+### Usage
+- enter Individual ToDo activty and enter to register your activity for the day
+
+### Run tests
+- You can use a live server to run the tests
+
+### Deployment
+- Run the project in your local browser to view the index.html
 
 
 ## Authors
 
-👤 Menanya Morris
 
-- GitHub: [@emmykage](https://github.com/emmykage)
-- Twitter: [@emmykage](https://twitter.com/emmykage)
+👤 **Morris Menanya**
+
+- GitHub: [@emmykage](https://github.com/Emmykage)
+- Twitter: [@emmykage](https://twitter.com/omayiobenj)
 - LinkedIn: [Menanya Morris](https://www.linkedin.com/in/morris-menanya-a51985104/)
 
 
-## 🤝 Contributing
-Thanks to everyone who contributed
+
+## 🤝 Contributers
+
+-  Morris Menanya: [@emmykage](https://github.com/Emmykage)
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-my Stand-up team
-
-
-## 📝 License
-
-None
